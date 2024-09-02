@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: inherit;
+    box-sizing: border-box;
+    list-style: none;
+}
+.kottadiv{
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
+}
+.kichkinadivlar{
+    border: 2px solid #E0DEDF;
+    border-radius: 20px;
+    width: 250px;
+    height: 330px;
+}
+h1{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.foto1{
+    margin-left: 30px;
+}
+.foto2{
+    margin-left: 30px;
+}
+.foto3{
+    margin-left: 40px;
+}
+.text1{
+    font-size: 15px;
+    margin-top: 8px;
+    color: #616161;
+    margin-left: 8px;
+    width: 240px;
+}
+.text2{
+    font-size: 15px;
+    margin-top: 8px;
+    color: #616161;
+    margin-left: 8px;
+    width: 240px;
+}
+.text3{
+    font-size: 15px;
+    color: #616161;
+    margin-left: 8px;
+    width: 240px;
+}
+.text8{
+    font-size: 15px;
+    color: #616161;
+    margin-left: 8px;
+    width: 240px;
+}
+
+.kichknadivnikichkinasitexti1{
+    color: #6A7885;
+    font-size: 15px;
+
+}
+.kichknadivnikichkinasi{
+    border:1.5px solid gray;
+    border-radius: 7px;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 10px;
+    margin-top: 24px;
+}
+.kichknadivnikichkinasi1{
+    border:1.5px solid gray;
+    border-radius: 7px;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.kichknadivnikichkinasitexti2{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.pokupka{
+    margin-left: 200px;
+}
+
+
+
+
+
